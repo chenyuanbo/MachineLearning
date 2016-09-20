@@ -1,6 +1,6 @@
 #coding:utf-8
 """
-讲文件下的所有图像写进csv文件，一行代表一张图
+讲文件下的所有图像写进csv文件，一行代表一张图,,,
 """
 import os
 from PIL import Image
